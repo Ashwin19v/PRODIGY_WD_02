@@ -142,7 +142,7 @@ body::-webkit-scrollbar {
 @media (max-width: 991px) {
   body {
     height:auto;
-    background-size: 3000px;
+    background-size: 5000px;
     background-position: center;
   }
 }
